@@ -3,8 +3,8 @@ import { Dialog } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 import { Link } from 'react-router-dom'
 import { Formik, Form, Field } from 'formik';
-import { Calculadora } from '../../../assets/svg/calculadora'
-import { Menos } from '../../../assets/svg/menos'
+import { Calculadora } from '../../components/calculadora'
+import { Menos } from '../../components/menos'
 import { Input } from '../../components/input'
 import View from '../../components/view'
 
